@@ -1,2 +1,2 @@
 # BlueControl
-Arduino BlueControl library
+Arduino BlueControl example
